@@ -49,3 +49,10 @@ Count plots
 Histograms
 Pie charts
 Heatmaps
+
+🏆 Skills Demonstrated
+Data Cleaning
+Data Visualization
+Exploratory Data Analysis
+Business Insight Generation
+Python Programming
