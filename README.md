@@ -31,3 +31,21 @@ Top purchasing states
 High-value customer segments
 Best-selling product categories
 Age group and gender-based purchasing trends
+
+📈 Key Insights
+Married women aged 26–35 years from Uttar Pradesh, Maharashtra, and Karnataka are the top buyers.
+Most sales occur in Food, Clothing, and Electronics categories.
+Working professionals contribute to the highest purchase volume.
+
+🧹 Data Cleaning Steps
+Removed null values
+Dropped unnecessary columns
+Corrected data types
+Handled duplicates
+
+📊 Visualizations Included
+Bar charts
+Count plots
+Histograms
+Pie charts
+Heatmaps
